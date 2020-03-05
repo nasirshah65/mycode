@@ -1,0 +1,5 @@
+print("a shebang line")
+user_input = input("What is your name:")
+print("Your name is:" +user_input)
+user_input = input("What day of the week it is:")
+print("The Date is:" +user_input)
